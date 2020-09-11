@@ -1,0 +1,69 @@
+#include "hspinet.as"
+#include "hspext.as"
+#include "kernel32.as"
+#uselib "unzip32"	//zipファイルを自動解凍するためのもの
+#func UnZip "UnZip" nullptr, str, int, int	//UnZip命令を使用するための定義
+#func UnZipGetFileCount "UnZipGetFileCount" str
+#func UnZipGetVersion "UnZipGetVersion"
+	sdim filepath, 256
+	filepath = "One-Hand-Shooting"	; ファイル名定義
+	#packopt name "zip_expansion"
+	#packopt runtime "OHS.hrt"
+	
+	screen 0,300,35,0,0,0
+	title "zip_expansion"
+	delete "one-hand-shooting.exe"
+	
+	netinit
+	if stat : dialog "ネット接続できません。" : end
+	
+	neturl "http://expresshr99.html.xdomain.jp/OHStest/"
+	netload "One-Hand-Shooting.zip"
+	
+	/*
+	netinit
+	if stat : dialog "ネット接続できません。" : end
+	
+	adr = "sv2.html.xdomain.ne.jp"
+	user= "expresshr99.html.xdomain.jp"
+	pass= "O-H-S.1999.2017"
+	
+	ftpopen adr,user,pass
+	if stat != 0 : dialog "FTP接続エラーです" : end
+	
+	ftpdir start_dir,"OHStest"
+	
+	ftpget filepath + ".zip"
+	if stat != 0 : dialog "更新データをダウンロードできませんでした。" : ftpclose : end
+	
+	exist dir_exe+"\\hspext.dll"
+	if strsize = -1 {
+		ftpdir start_dir,"OHStest"
+		
+		ftpget "hspext.dll"
+		if stat != 0 : dialog "ゲームを起動するために必要なファイルがダウンロードできませんでした...\n(インターネット接続を確認してください)\n5" : ftpclose : end
+	}
+	ftpclose
+*/
+	if varptr(UnZipGetVersion) = 0 {
+		dialog "unzip32.dllがありません。"
+		end
+	}
+	
+*unpack
+	UnZip filepath
+    if stat = 0 : goto *owari
+	dialog "解凍できませんでした。"
+	end
+*owari
+	delete "One-Hand-Shooting.zip"
+	
+	chdir dir_exe+"\\One-Hand-Shooting"
+	item = "one-hand-shooting.exe"
+	fxcopy item,dir_exe,1	//itemのファイルを実行ファイルがあるフォルダーに移動
+	
+	chdir dir_exe
+	RemoveDirectory dir_exe+"\\One-Hand-Shooting"
+	
+	exec "one-hand-shooting.exe"
+	end
