@@ -14,7 +14,7 @@
 
 <h2>目次</h2>
 
-- 操作方法
+- [操作方法](https://github.com/Hiraryo/One-Hand_Shooting.wiki.git)
   - キーの割り当ての変更方法
 - ゲームの始め方
 - 画面の見かた
