@@ -26,7 +26,7 @@
   - メイン画面
   - リザルト画面
 - アクション
-  - SPECIAL・SHOTOGUN(SS)の撃ち方
+  - SPECIAL・SHOTGUN(SS)の撃ち方
 - ゲームの攻略
 - スタッフクレジット
 - お問い合わせ
