@@ -20,7 +20,7 @@
 - [ゲームの始め方](https://github.com/Hiraryo/One-Hand_Shooting/wiki/%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E5%A7%8B%E3%82%81%E6%96%B9---Getting-Started)
 - [画面の見かた](https://github.com/Hiraryo/One-Hand_Shooting/wiki/%E7%94%BB%E9%9D%A2%E3%81%AE%E8%A6%8B%E3%81%8B%E3%81%9F---Game-Screen)
   - [ランキング画面](https://github.com/Hiraryo/One-Hand_Shooting/wiki/%E7%94%BB%E9%9D%A2%E3%81%AE%E8%A6%8B%E3%81%8B%E3%81%9F---Game-Screen#%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%E7%94%BB%E9%9D%A2)
-  - ホーム画面
+  - [ホーム画面](https://github.com/Hiraryo/One-Hand_Shooting/wiki/%E7%94%BB%E9%9D%A2%E3%81%AE%E8%A6%8B%E3%81%8B%E3%81%9F---Game-Screen#%E3%83%9B%E3%83%BC%E3%83%A0%E7%94%BB%E9%9D%A2)
   - モードセレクト画面
   - 機体セレクト画面
   - 機体強化画面
