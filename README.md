@@ -17,7 +17,7 @@
 - [映像やスクリーンショット](https://github.com/Hiraryo/One-Hand_Shooting/wiki)
 - [操作方法](https://github.com/Hiraryo/One-Hand_Shooting/wiki/%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95---Controls)
   - [キーの割り当ての変更方法](https://github.com/Hiraryo/One-Hand_Shooting/wiki/%E3%82%AD%E3%83%BC%E3%81%AE%E5%89%B2%E3%82%8A%E5%BD%93%E3%81%A6%E3%81%AE%E5%A4%89%E6%9B%B4%E6%96%B9%E6%B3%95)
-- ゲームの始め方
+- [ゲームの始め方](https://github.com/Hiraryo/One-Hand_Shooting/wiki/%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E5%A7%8B%E3%82%81%E6%96%B9---Getting-Started)
 - 画面の見かた
   - ランキング画面
   - ホーム画面
