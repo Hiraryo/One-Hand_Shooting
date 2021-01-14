@@ -23,7 +23,7 @@
   - [ホーム画面](https://github.com/Hiraryo/One-Hand_Shooting/wiki/%E7%94%BB%E9%9D%A2%E3%81%AE%E8%A6%8B%E3%81%8B%E3%81%9F---Game-Screen#%E3%83%9B%E3%83%BC%E3%83%A0%E7%94%BB%E9%9D%A2)
   - [モードセレクト画面](https://github.com/Hiraryo/One-Hand_Shooting/wiki/%E7%94%BB%E9%9D%A2%E3%81%AE%E8%A6%8B%E3%81%8B%E3%81%9F---Game-Screen#%E3%83%A2%E3%83%BC%E3%83%89%E3%82%BB%E3%83%AC%E3%82%AF%E3%83%88%E7%94%BB%E9%9D%A2)
   - [機体セレクト画面](https://github.com/Hiraryo/One-Hand_Shooting/wiki/%E7%94%BB%E9%9D%A2%E3%81%AE%E8%A6%8B%E3%81%8B%E3%81%9F---Game-Screen#%E6%A9%9F%E4%BD%93%E3%82%BB%E3%83%AC%E3%82%AF%E3%83%88%E7%94%BB%E9%9D%A2)
-  - 機体強化画面
+  - [機体強化画面](https://github.com/Hiraryo/One-Hand_Shooting/wiki/%E7%94%BB%E9%9D%A2%E3%81%AE%E8%A6%8B%E3%81%8B%E3%81%9F---Game-Screen#%E6%A9%9F%E4%BD%93%E5%BC%B7%E5%8C%96%E7%94%BB%E9%9D%A2)
   - メイン画面
   - リザルト画面
 - アクション
