@@ -15,26 +15,7 @@
 <h2>目次</h2>
 <h3> :video_game: ゲーム概要</h3>
 
-- [ゲーム概要はこちらから]()
-- [映像やスクリーンショット](https://github.com/Hiraryo/One-Hand_Shooting/wiki)
-- [操作方法](https://github.com/Hiraryo/One-Hand_Shooting/wiki/%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95---Controls)
-  - [キーの割り当ての変更方法](https://github.com/Hiraryo/One-Hand_Shooting/wiki/%E3%82%AD%E3%83%BC%E3%81%AE%E5%89%B2%E3%82%8A%E5%BD%93%E3%81%A6%E3%81%AE%E5%A4%89%E6%9B%B4%E6%96%B9%E6%B3%95)
-- [ゲームの始め方](https://github.com/Hiraryo/One-Hand_Shooting/wiki/%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E5%A7%8B%E3%82%81%E6%96%B9---Getting-Started)
-- [画面の見かた](https://github.com/Hiraryo/One-Hand_Shooting/wiki/%E7%94%BB%E9%9D%A2%E3%81%AE%E8%A6%8B%E3%81%8B%E3%81%9F---Game-Screen)
-  - [ランキング画面](https://github.com/Hiraryo/One-Hand_Shooting/wiki/%E7%94%BB%E9%9D%A2%E3%81%AE%E8%A6%8B%E3%81%8B%E3%81%9F---Game-Screen#%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%E7%94%BB%E9%9D%A2)
-  - [ホーム画面](https://github.com/Hiraryo/One-Hand_Shooting/wiki/%E7%94%BB%E9%9D%A2%E3%81%AE%E8%A6%8B%E3%81%8B%E3%81%9F---Game-Screen#%E3%83%9B%E3%83%BC%E3%83%A0%E7%94%BB%E9%9D%A2)
-  - [モードセレクト画面](https://github.com/Hiraryo/One-Hand_Shooting/wiki/%E7%94%BB%E9%9D%A2%E3%81%AE%E8%A6%8B%E3%81%8B%E3%81%9F---Game-Screen#%E3%83%A2%E3%83%BC%E3%83%89%E3%82%BB%E3%83%AC%E3%82%AF%E3%83%88%E7%94%BB%E9%9D%A2)
-  - [機体セレクト画面](https://github.com/Hiraryo/One-Hand_Shooting/wiki/%E7%94%BB%E9%9D%A2%E3%81%AE%E8%A6%8B%E3%81%8B%E3%81%9F---Game-Screen#%E6%A9%9F%E4%BD%93%E3%82%BB%E3%83%AC%E3%82%AF%E3%83%88%E7%94%BB%E9%9D%A2)
-  - [機体強化画面](https://github.com/Hiraryo/One-Hand_Shooting/wiki/%E7%94%BB%E9%9D%A2%E3%81%AE%E8%A6%8B%E3%81%8B%E3%81%9F---Game-Screen#%E6%A9%9F%E4%BD%93%E5%BC%B7%E5%8C%96%E7%94%BB%E9%9D%A2)
-  - [メイン画面](https://github.com/Hiraryo/One-Hand_Shooting/wiki/%E7%94%BB%E9%9D%A2%E3%81%AE%E8%A6%8B%E3%81%8B%E3%81%9F---Game-Screen#%E3%83%A1%E3%82%A4%E3%83%B3%E7%94%BB%E9%9D%A2)
-  - [リザルト画面](https://github.com/Hiraryo/One-Hand_Shooting/wiki/%E7%94%BB%E9%9D%A2%E3%81%AE%E8%A6%8B%E3%81%8B%E3%81%9F---Game-Screen#%E3%83%AA%E3%82%B6%E3%83%AB%E3%83%88%E7%94%BB%E9%9D%A2)
-- アクション
-  - SPECIAL・SHOTGUN(SS)の撃ち方
-- ゲームの攻略
-- 内部仕様
-- アップデート履歴
-- スタッフクレジット
-- お問い合わせ
+- [ゲーム概要はこちらから](https://github.com/Hiraryo/One-Hand_Shooting/wiki)
 
 <h3> 🔧 技術的アピールポイント</h3>
 
