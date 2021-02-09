@@ -14,6 +14,7 @@
 
 <h2>目次</h2>
 <h3> :video_game: ゲーム概要</h3>
+
 - [映像やスクリーンショット](https://github.com/Hiraryo/One-Hand_Shooting/wiki)
 - [操作方法](https://github.com/Hiraryo/One-Hand_Shooting/wiki/%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95---Controls)
   - [キーの割り当ての変更方法](https://github.com/Hiraryo/One-Hand_Shooting/wiki/%E3%82%AD%E3%83%BC%E3%81%AE%E5%89%B2%E3%82%8A%E5%BD%93%E3%81%A6%E3%81%AE%E5%A4%89%E6%9B%B4%E6%96%B9%E6%B3%95)
