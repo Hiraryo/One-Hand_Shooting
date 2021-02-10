@@ -19,7 +19,7 @@
 
 ## 🔧 Technical appeal point
 
-- [技術的アピールポイントはこちらから]()
+- [技術的アピールポイントはこちらから(準備中)]()
 
 ## :blush: Staff credi
 
