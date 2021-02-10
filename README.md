@@ -12,16 +12,16 @@
 
 1. ご使用中に、手や腕など、身体に疲れを感じたら必ず休憩を取ってください。もし、身体に痛みや不快感が続くようであれば、直ちに使用を中止し、医師の診察を受けてください。
 
-<h2>目次</h2>
-<h3> :video_game: ゲーム概要</h3>
+# contents
+## :video_game: About this game
 
 - [ゲーム概要はこちらから](https://github.com/Hiraryo/One-Hand_Shooting/wiki)
 
-<h3> 🔧 技術的アピールポイント</h3>
+## 🔧 Technical appeal point
 
 - [技術的アピールポイントはこちらから]()
 
-<h3> :blush:スタッフクレジット</h3>
+## :blush: Staff credit
 
 - ディレクター
   - 製作者(EXPRESS_HR)
@@ -91,3 +91,9 @@
 
 - スペシャルサンクス
   - 本作を遊んで下さった皆様
+  
+## 🛠 Technology
+<p align="center">
+  <a href="https://hsp.tv/"><img src="https://user-images.githubusercontent.com/60394438/107457025-aacfa980-6b94-11eb-8ded-994769d8d94f.jpg" width="20%;" /></a>
+  <br>
+</p>
