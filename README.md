@@ -12,7 +12,7 @@
 
 1. ご使用中に、手や腕など、身体に疲れを感じたら必ず休憩を取ってください。もし、身体に痛みや不快感が続くようであれば、直ちに使用を中止し、医師の診察を受けてください。
 
-# contents
+# CONTENTS
 ## :video_game: About this game
 
 - [ゲーム概要はこちらから](https://github.com/Hiraryo/One-Hand_Shooting/wiki)
