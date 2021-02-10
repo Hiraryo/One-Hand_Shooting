@@ -21,7 +21,7 @@
 
 - [技術的アピールポイントはこちらから(準備中)]()
 
-## :blush: Staff credi
+## :blush: Staff credit
 
 - **GENERAL PRODUCER**
   - Ryota Hirai(EXPRESS_HR)
