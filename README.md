@@ -91,6 +91,7 @@
 
 - **SUPERVISOR**
   - Konko Osaka Junior & Senior Hight School
+  - KYOTO SANGYO UNIVERSITY
 <br>
 
 - **SPECIAL THANKS**
