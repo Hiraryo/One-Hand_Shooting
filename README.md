@@ -23,77 +23,77 @@
 
 ## :blush: Staff credi
 
-- GENERAL PRODUCER
+- **GENERAL PRODUCER**
   - Ryota Hirai(EXPRESS_HR)
 <br>
 
-- DIRECTOR
+- **DIRECTOR**
   - Ryota Hirai(EXPRESS_HR)
 <br>
 
-- DESIGN DIRECTOR
+- **DESIGN DIRECTOR**
   - Ryota Hirai(EXPRESS_HR)
 <br>
 
--  CHARACTER DESIGN
+- **CHARACTER DESIGN**
   - Ryota Hirai(EXPRESS_HR)
 <br>
 
-- FIELD DESIGN
+- **FIELD DESIGN**
   - Ryota Hirai(EXPRESS_HR)
 <br>
 
-- UI DESIGN
+- **UI DESIGN**
   - Ryota Hirai(EXPRESS_HR)
 <br>
 
-- BG DESIGN
+- **BG DESIGN**
   - Ryota Hirai(EXPRESS_HR)
 <br>
 
-- PROGRAMMING DIRECTOR
+- **PROGRAMMING DIRECTOR**
   - Ryota Hirai(EXPRESS_HR)
 <br>
   
-- MAIN PROGRAMMING
+- **MAIN PROGRAMMING**
   - Ryota Hirai(EXPRESS_HR)
 <br>
 
-- PLAYER PROGRAMMING
+- **PLAYER PROGRAMMING**
   - Ryota Hirai(EXPRESS_HR)
 <br>
 
-- ENEMY PROGRAMMING
+- **ENEMY PROGRAMMING**
   - Ryota Hirai(EXPRESS_HR)
 <br>
 
-- PROGRAMMING
+- **PROGRAMMING**
   - Ryota Hirai(EXPRESS_HR)
 <br>
 
-- SYSTEM PROGRAMMING
+- **SYSTEM PROGRAMMING**
   - Ryota Hirai(EXPRESS_HR)
 <br>
 
-- SOUND DIRECTOR
+- **SOUND DIRECTOR**
   - Ryota Hirai(EXPRESS_HR)
 <br>
 
-- SOUND PROGRAMMING
+- **SOUND PROGRAMMING**
   - Ryota Hirai(EXPRESS_HR)
 <br>
 
-- DEBUG
+- **DEBUG**
   - Ryota Hirai(EXPRESS_HR)
   - (~_~;)
   - 琥珀
 <br>
 
-- SUPERVISOR
+- **SUPERVISOR**
   - Konko Osaka Junior & Senior Hight School
 <br>
 
-- SPECIAL THANKS
+- **SPECIAL THANKS**
   - 本作を遊んで下さった皆様
 
 ## 🛠 Technology
