@@ -21,77 +21,81 @@
 
 - [技術的アピールポイントはこちらから]()
 
-## :blush: Staff credit
+## :blush: Staff credi
 
-- ディレクター
-  - 製作者(EXPRESS_HR)
+- GENERAL PRODUCER
+  - Ryota Hirai(EXPRESS_HR)
 <br>
 
-- メインプログラム
-  - 製作者(EXPRESS_HR)
+- DIRECTOR
+  - Ryota Hirai(EXPRESS_HR)
 <br>
 
-- フィールドデザイン
-  - 製作者(EXPRESS_HR)
+- DESIGN DIRECTOR
+  - Ryota Hirai(EXPRESS_HR)
 <br>
 
-- 背景データ設計
-  - 製作者(EXPRESS_HR)
+-  CHARACTER DESIGN
+  - Ryota Hirai(EXPRESS_HR)
 <br>
 
-- UIデザイン
-  - 製作者(EXPRESS_HR)
+- FIELD DESIGN
+  - Ryota Hirai(EXPRESS_HR)
 <br>
 
-- BGグラフィックス
-  - 製作者(EXPRESS_HR)
+- UI DESIGN
+  - Ryota Hirai(EXPRESS_HR)
 <br>
 
-- 統括プロデューサー
-  - 製作者(EXPRESS_HR)
+- BG DESIGN
+  - Ryota Hirai(EXPRESS_HR)
 <br>
 
-- デザインディレクター
-  - 製作者(EXPRESS_HR)
+- PROGRAMMING DIRECTOR
+  - Ryota Hirai(EXPRESS_HR)
+<br>
+  
+- MAIN PROGRAMMING
+  - Ryota Hirai(EXPRESS_HR)
 <br>
 
-- キャラクターデザイン
-  - 製作者(EXPRESS_HR)
+- PLAYER PROGRAMMING
+  - Ryota Hirai(EXPRESS_HR)
 <br>
 
-- プレイヤープログラミング
-  - 製作者(EXPRESS_HR)
+- ENEMY PROGRAMMING
+  - Ryota Hirai(EXPRESS_HR)
 <br>
 
-- 敵のプログラミング
-  - 製作者(EXPRESS_HR)
+- PROGRAMMING
+  - Ryota Hirai(EXPRESS_HR)
 <br>
 
-- プログラミング
-  - 製作者(EXPRESS_HR)
+- SYSTEM PROGRAMMING
+  - Ryota Hirai(EXPRESS_HR)
 <br>
 
-- システムプログラミング
-  - 製作者(EXPRESS_HR)
+- SOUND DIRECTOR
+  - Ryota Hirai(EXPRESS_HR)
 <br>
 
-- サウンドディレクター
-  - 製作者(EXPRESS_HR)
+- SOUND PROGRAMMING
+  - Ryota Hirai(EXPRESS_HR)
 <br>
 
-- サウンドプログラミング
-  - 製作者(EXPRESS_HR)
-<br>
-
-- デバッグ
-  - 製作者(EXPRESS_HR)
+- DEBUG
+  - Ryota Hirai(EXPRESS_HR)
   - (~_~;)
   - 琥珀
 <br>
 
-- スペシャルサンクス
+- SUPERVISOR
+  - Konko Osaka Junior & Senior Hight School
+<br>
+
+- SPECIAL THANKS
   - 本作を遊んで下さった皆様
-  
+
 ## 🛠 Technology
 <p align="center">
   <a href="https://hsp.tv/"><img src="https://user-images.githubusercontent.com/60394438/107457025-aacfa980-6b94-11eb-8ded-994769d8d94f.jpg" width="20%;" /></a>
