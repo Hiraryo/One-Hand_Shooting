@@ -21,7 +21,7 @@
 
 - [技術的アピールポイントはこちらから(準備中)]()
 
-## 🛠 Technology
+## 🛠 Development tool(Programmer)
 <p align="center">
   <a href="https://hsp.tv/"><img src="https://user-images.githubusercontent.com/60394438/107457025-aacfa980-6b94-11eb-8ded-994769d8d94f.jpg" width="20%;" /></a>
   <br>
